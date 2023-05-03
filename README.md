@@ -14,7 +14,7 @@
 |<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20141211_87%2Fapple8223_1418260372201mThxF_JPEG%2F1321396651560.jpg&type=sc960_832" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
 |[김민서](https://github.com/kmingseo)|[]()|[]()|[]()|[]()|
 |<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
-|[김민정](https://github.com/Minnnning)|[]()|[]()|[]()|[]()|
+|[김민정](https://github.com/minnnning)|[]()|[]()|[]()|[]()|
 
 </br>
 
