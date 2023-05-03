@@ -1,4 +1,6 @@
-# COSMIC 알고리즘 스터디
+# CHAOS
+### Cosmic Hojoong's Algorithm Overcoming Study
+
 ## Study Members
 
 |![image](https://avatars.githubusercontent.com/u/128250130?v=4)|![image]()|![image]()|![image]()|![image]()|
@@ -19,7 +21,9 @@
 |**[docs]**|문서 (문서 추가, 수정, 삭제)|
 |**[chore]**|빌드, 설정 파일|
 
-ex) [Type] #이슈번호 커밋메세지 -> "git commit -m "[ac]#12 백준 1237"
+ex) [Type] #이슈번호 커밋메세지 -> "git commit -m "[ac]#12 백준 1237   
+[ac] 태그를 달 수 있을 때까지 커밋하기   
+**만약 결과가 [wa]이거나 [tle]라면 그 원인을 찾아서 해결하기**
 
 </br>
 
@@ -42,3 +46,12 @@ ex) [Type] #이슈번호 커밋메세지 -> "git commit -m "[ac]#12 백준 1237"
 코드포스: Round넘버_Div.넘버_문제번호 ex)Round540_Div.3_B
 
 </br>
+
+## Ground Rules
+* 지각기준: 10분 초과시!! **(4번 이상 결석 시 스터디 Out!)**
+* 지각3번 = 결석 1회
+* 결석 할 경우 결석 사유서 제출바람...
+* 숙제 안해오면 결석으로 간주...
+
+</br>
+
