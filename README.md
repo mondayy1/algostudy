@@ -1,6 +1,8 @@
 # CHAOS
 ### Cosmic Hojoong's Algorithm Overcoming Study
 
+</br>
+
 ## Study Members
 
 |![image](https://avatars.githubusercontent.com/u/128250130?v=4)|![image]()|![image]()|![image]()|![image]()|
@@ -37,7 +39,7 @@ ex) [Type] #이슈번호 커밋메세지 -> "git commit -m "[ac]#12 백준 1237
 
 ## Directory Naming
 이름/Week?? ex)장호중/Week1 </br>
-소스코드 넣어서 업로드.
+소스코드, README파일 넣어서 업로드. README 파일에는 코드 설명 적어서 올리기.
 
 </br>
 
