@@ -4,17 +4,13 @@
 </br>
 
 ## Study Members
-|<img src="https://avatars.githubusercontent.com/u/128250130?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/55152597?v=4" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
-|:-:|:-:|:-:|:-:|:-:|
-|[장호중](https://github.com/mondayy1)|[박정현](https://github.com/BiteSnail)|[]()|[]()|[]()|
-|<img src="https://avatars.githubusercontent.com/u/128571125?s=400&u=a8dcb208498e3bbef65d196740552fcb4d3bafab&v=4" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
+|<img src="https://avatars.githubusercontent.com/u/128250130?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/55152597?v=4" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[장호중](https://github.com/mondayy1)|[박정현](https://github.com/BiteSnail)|[오민석]()|[]()|[]()|
+|<img src="https://avatars.githubusercontent.com/u/128571125?s=400&u=a8dcb208498e3bbef65d196740552fcb4d3bafab&v=4" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
 |[김재하](https://github.com/kjh3291)|[]()|[]()|[]()|[]()|
-|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
-|[]()|[]()|[]()|[]()|[]()|
-|<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20141211_87%2Fapple8223_1418260372201mThxF_JPEG%2F1321396651560.jpg&type=sc960_832" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
+|<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20141211_87%2Fapple8223_1418260372201mThxF_JPEG%2F1321396651560.jpg&type=sc960_832" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
 |[김민서](https://github.com/kmingseo)|[]()|[]()|[]()|[]()|
-|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
-|[김민정](https://github.com/minnnning)|[]()|[]()|[]()|[]()|
 
 </br>
 
