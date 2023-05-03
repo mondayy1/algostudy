@@ -5,19 +5,15 @@
 
 ## Study Members
 
-|![image](https://avatars.githubusercontent.com/u/128250130?v=4)|![image]()|![image]()|![image]()|![image]()|
+|<img src="https://avatars.githubusercontent.com/u/128250130?v=4" width="200" height="200"/>|![image]()|![image]()|![image]()|![image]()|
 |:-:|:-:|:-:|:-:|:-:|
 |[장호중](https://github.com/mondayy1)|[]()|[]()|[]()|[]()|
-|:-:|:-:|:-:|:-:|:-:|
-|![image](https://avatars.githubusercontent.com/u/128571125?s=400&u=a8dcb208498e3bbef65d196740552fcb4d3bafab&v=4)|![image]()|![image]()|![image]()|![image]()|
+|<img src="https://avatars.githubusercontent.com/u/128571125?s=400&u=a8dcb208498e3bbef65d196740552fcb4d3bafab&v=4" width="200" height="200"/>|![image]()|![image]()|![image]()|![image]()|
 |[김재하](https://github.com/kjh3291)|[]()|[]()|[]()|[]()|
-|:-:|:-:|:-:|:-:|:-:|
 |![image]()|![image]()|![image]()|![image]()|![image]()|
-|:-:|:-:|:-:|:-:|:-:|
 |[]()|[]()|[]()|[]()|[]()|
-|![image](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20141211_87%2Fapple8223_1418260372201mThxF_JPEG%2F1321396651560.jpg&type=sc960_832)|![image]()|![image]()|![image]()|![image]()|
+|<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20141211_87%2Fapple8223_1418260372201mThxF_JPEG%2F1321396651560.jpg&type=sc960_832" width="200" height="200"/>|![image]()|![image]()|![image]()|![image]()|
 |[김민서]()|[]()|[]()|[]()|[]()|
-|:-:|:-:|:-:|:-:|:-:|
 |![image]()|![image]()|![image]()|![image]()|![image]()|
 |[]()|[]()|[]()|[]()|[]()|
 
