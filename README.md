@@ -17,8 +17,12 @@
 </br>
 
 ## Study Flow
+### Pre-Study
+1. 숙제 해결하기
 
-hello world
+
+
+### On-Study
 
 </br>
 
