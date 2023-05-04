@@ -10,7 +10,7 @@
 |<img src="https://avatars.githubusercontent.com/u/128571125?s=400&u=a8dcb208498e3bbef65d196740552fcb4d3bafab&v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107767152?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107825793?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/80758613?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107828202?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107869024?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/85085804?v=4" width="100" height="100"/>|
 |[김재하](https://github.com/kjh3291)|[양해미](https://github.com/yanghaemi)|[강지웅](https://github.com/KangJiUng)|[김민정](https://github.com/Minnnning)|[오현지](https://github.com/Hyunjiiing)|[송영은](https://github.com/songyeongeun)|[복무창](https://github.com/bokob)|
 |<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20141211_87%2Fapple8223_1418260372201mThxF_JPEG%2F1321396651560.jpg&type=sc960_832" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107831875?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/74997112?v=4" width="100" height="100"/>|<img src="" width="100" height="100"/>|<img src="" width="100" height="100"/>|
-|[김민서](https://github.com/kmingseo)|[이태윤](https://github.com/troymerai)|[김기원](https://github.com/kiuuon)|[문희범]()|[윤정섭](https://github.com/jithhuP)|[이준석]()|[김도영()]
+|[김민서](https://github.com/kmingseo)|[이태윤](https://github.com/troymerai)|[김기원](https://github.com/kiuuon)|[문희범]()|[윤정섭](https://github.com/jithhuP)|[이준석]()|[김도영]()
 
 </br>
 
