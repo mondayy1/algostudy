@@ -6,7 +6,12 @@ int main()
 	cin >> a;
 	for (int i = 1; i < 10; i++)
 	{
-		cout << a << " * " << i << " = " << a * i<<endl;
+		cout << a;
+		cout<< " * ";
+		cout<< i;
+		cout << " = ";
+		cout << a * i<<endl;
+
 	}
 	
 	return 0;
