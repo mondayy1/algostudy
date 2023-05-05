@@ -2,19 +2,13 @@
 using namespace std;
 int main()
 {
-    int n, x = 0;
-    int a[100], b[100];
-    cin >> n >> x;
-    int res = 0;
+    int n = 0;
+    cin >> n;
+    int longnum = n / 4;
 
-    for (int i = 0; i < x; i++)
+    for (int i = 0; i < longnum; i++)
     {
-        cin >> a[i] >> b[i];
-        res += a[i] * b[i];
+        cout << "long ";
     }
-
-    if (n == res)
-        cout << "Yes";
-    else
-        cout << "No";
+    cout << "int";
 }
