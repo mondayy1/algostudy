@@ -7,7 +7,7 @@ int main()
     if (a > 0 && b < 10)
     {
         cout << fixed;
-        cout.precision(9);
+        cout.precision(9); 
         cout << a / b;
     }
 
