@@ -9,7 +9,7 @@ int main()
         cout << fixed;
         cout.precision(9);
         cout << a / b;
-    }
+    } 
 
     return 0;
 }
