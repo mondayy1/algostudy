@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int A, B;
+    int A;
     cin >> A;
     if( A >= 90 && A <= 100){
         cout << "A" << endl;
