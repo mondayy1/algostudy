@@ -1,0 +1,6 @@
+# about build file 
+*.exe
+*.o
+*.ilk
+*.obj
+*.pdb
