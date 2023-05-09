@@ -12,7 +12,7 @@ int main()
         cin >> a[i] >> b[i];
         res += a[i] * b[i];
     }
-
+ 
     if (n == res)
         cout << "Yes";
     else
