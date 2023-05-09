@@ -13,7 +13,6 @@ int main()
     }
     int idx = 0;
     int max = -1;
-
     for (int i = 0; i < 9; i++)
     {
         if (max < v.at(i))
