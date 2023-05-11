@@ -1,5 +1,5 @@
-#include<iostream>
-#include<string>
+#include <iostream>
+#include <string>
 using namespace std;
 
 int main(){
@@ -13,5 +13,5 @@ int main(){
         sum += x;
     }
     cout << sum << endl;
-} //강제 (int)로 변환시 아스키코드 값이 나옴
+} //강제 (int)로 변환시 아스키코드 값이 나옴 stoi적용 안됨
 //https://11001.tistory.com/14
