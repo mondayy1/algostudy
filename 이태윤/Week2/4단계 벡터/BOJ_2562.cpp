@@ -1,15 +1,16 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
 int main() {
   int input, max;
   int count = 1;
-  int arr[9];
+  vector<int> arr;
 
   for (int i = 0; i < 9; i++) {
     cin >> input;
-    arr[i] = input;
+    arr.push_back(input);
   }
 
   max = arr[0];

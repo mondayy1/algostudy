@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
@@ -6,10 +7,7 @@ int main() {
   int n, m, i, j, k;
 
   cin >> n >> m;
-  int arr[n];
-  for (int i = 0; i < n; i++) {
-    arr[i] = 0;
-  }
+  vector<int> arr(n, 0);
 
   for (int y = 0; y < m; y++) {
     cin >> i >> j >> k;

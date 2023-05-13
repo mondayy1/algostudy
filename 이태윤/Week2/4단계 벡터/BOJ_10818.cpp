@@ -1,11 +1,12 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
 int main() {
   int A, input, B, min, max = 0;
   cin >> input;
-  int arr[sizeof(int) * input];
+  vector<int> arr(input);
 
   for (int i = 0; i < input; i++) {
     cin >> A;
