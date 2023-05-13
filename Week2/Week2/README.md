@@ -29,3 +29,7 @@ $i$번째 글자를 출력하는 프로그램을 작성
 - 문자열을 입력받고 길이를 재는 문제
 ### BOJ_9086 별 찍기-3
 - 문자열을 입력으로 주면 문자열의 첫 글자와 마지막 글자를 출력하는 프로그램을 작성
+
+
+vector와 string 정리
+https://secret-butternut-b34.notion.site/Vector-string-25bf6fd47dd74f18b43d6e9a945dc926
