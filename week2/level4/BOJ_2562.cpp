@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 int main(){
-    int max=0, maxi=0, temp;  // maxi를 초기화 안해줬더니 틀렸다고 나옴. 왜?
+    int max=0, maxi=0, temp;  
     vector<int> V;
     for(int i = 0; i < 9; i++){
         cin >> temp;
