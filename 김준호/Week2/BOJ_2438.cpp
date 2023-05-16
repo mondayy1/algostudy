@@ -2,14 +2,20 @@
 using namespace std;
 int main()
 {
-	int N;
+	int N,count=0;
 	cin >> N;
-	for (int i = 1; i <= N; i++)
+	
+	for (int i = 1; i <=N; i++)
 	{
-		int cnt = 1;
-		while (cnt != i + 1) {
+		count = 0;
+		for (int j = N - i;j > 0; j--)
+		{
+			cout << "";
+		}
+
+		while (count != i) {
 			cout << "*";
-			cnt++;
+			count++;
 		}
 		cout << "\n";
 	}
