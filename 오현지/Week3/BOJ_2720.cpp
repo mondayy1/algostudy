@@ -1,3 +1,6 @@
+/*거스름돈
+소요시간 : 1시간 이상
+*/
 #include <iostream>
 using namespace std;
 int main() {
