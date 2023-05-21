@@ -12,14 +12,13 @@ int main() {
 	int p = 0;
 	for (int i = 0; i < T; i++) {
 		cin >> money;
-		money /= 100;
-		q = money / 0.25;
-		money = money - q * 0.25;
-		d = money / 0.1;
-		money = money - d * 0.1;
-		n = money / 0.05;
-		money = money - n * 0.05;
-		p = money / 0.01;
+		q = money / 25;
+		money = money - q * 25;
+		d = money / 10;
+		money = money - d * 10;
+		n = money / 5;
+		money = money - n * 5;
+		p = money / 1;
 
 		cout << q << ' ' << d << ' ' << n << ' ' << p << '\n';
 	}
