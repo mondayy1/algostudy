@@ -1,39 +1,31 @@
 #include <iostream>
 #include <string>
-#include <vector>
 using namespace std;
 int main() {
-	cin.tie(0);
 	ios_base::sync_with_stdio(false);
+	cin.tie(0);
+	int count[26] = { 0 };
 	string S;
-	vector <int>countS;
 	cin >> S;
 	int length = S.length();
 	for (int i = 0; i < length; i++) {
 		S[i] = toupper(S[i]);
 	}
-	countS.resize(length);
 	for (int i = 0; i < length; i++) {
-		for (int j = 0; j < length; j++) {
-			if (S[i] == S[j]) {
-				countS[i]++;
-			}
-		}
+		count[S[i] - 'A']++;
 	}
-	int max_index = countS[0];
-	for (int i = 0; i < length; i++) {
-		if (length == 1) {
-			max_index = 0;
-			break;
-		}
-		else if (max_index < countS[i]) {
+	int max = 0;
+	int max_index = 0;
+	for (int i = 0; i < 26; i++) {
+		if (max < count[i]) {
+			max = count[i];
 			max_index = i;
+			continue;
+		}
+		if (max == count[i]) {
+			max_index = -1;
 		}
 	}
-	for (int i = 0; i < length; i++) {
-		if (countS[max_index] == countS[i]) {
-			S[max_index] = '?';
-		}
-	}
-	cout << S[max_index];
+	if (max_index == -1) cout << '?';
+	else cout << (char)(max_index + 'A');
 }
