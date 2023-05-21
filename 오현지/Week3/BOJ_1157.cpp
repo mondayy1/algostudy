@@ -1,6 +1,3 @@
-// 검색하지 않고 시도 : 간단한 입출력, 대문자 변환 전까지
-// 물어보지 않고 시도 : 대문자 변환까지 성공, 가장 많이 사용되는 알파벳
-// 여러개 존재시 예외처리를 못했음
 #include <iostream>
 #include <string>
 #include <vector>
@@ -12,6 +9,9 @@ int main() {
 	vector <int>countS;
 	cin >> S;
 	int length = S.length();
+	for (int i = 0; i < length; i++) {
+		S[i] = toupper(S[i]);
+	}
 	countS.resize(length);
 	for (int i = 0; i < length; i++) {
 		for (int j = 0; j < length; j++) {
@@ -21,7 +21,6 @@ int main() {
 		}
 	}
 	int max_index = countS[0];
-	int index = NULL;
 	for (int i = 0; i < length; i++) {
 		if (length == 1) {
 			max_index = 0;
@@ -31,6 +30,10 @@ int main() {
 			max_index = i;
 		}
 	}
-	S[max_index] = toupper(S[max_index]);
+	for (int i = 0; i < length; i++) {
+		if (countS[max_index] == countS[i]) {
+			S[max_index] = '?';
+		}
+	}
 	cout << S[max_index];
 }
