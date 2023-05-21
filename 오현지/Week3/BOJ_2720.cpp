@@ -1,21 +1,26 @@
-// 1차 시도 실패(15분)
-// 2차 시도
 #include <iostream>
 using namespace std;
 int main() {
 	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
+	cin.tie(0);
 	int T;
-	int C = 0;
-	int D = 0;
 	cin >> T;
+	double money;
+	int q = 0;
+	int d = 0;
+	int n = 0;
+	int p = 0;
 	for (int i = 0; i < T; i++) {
-		cin >> C;
-		D = C / 100;
-		D += D % C / 100;
-		if (D >= 0.25 && D / 0.25 > 0) {
-			cout << D / 0.25;
-			D += D % 0.25;
-		}
+		cin >> money;
+		money /= 100;
+		q = money / 0.25;
+		money = money - q * 0.25;
+		d = money / 0.1;
+		money = money - d * 0.1;
+		n = money / 0.05;
+		money = money - n * 0.05;
+		p = money / 0.01;
+
+		cout << q << ' ' << d << ' ' << n << ' ' << p << '\n';
 	}
 }
