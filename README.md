@@ -1,23 +1,15 @@
-# CHAOS
+# CHAOS 2023
 ### Cosmic Hojoong's Algorithm Overcoming Study
 
 </br>
 
 ## Study Members
-#### TEAM A
-|![장호중](https://avatars.githubusercontent.com/u/128250130?v=4)|![박정현](https://avatars.githubusercontent.com/u/55152597?v=4)|![오민석](https://avatars.githubusercontent.com/u/68336833?v=4)|![안준석](https://avatars.githubusercontent.com/u/41678838?v=4)|![이동율](https://avatars.githubusercontent.com/u/75784807?v=4)|
-|:-:|:-:|:-:|:-:|:-:|
-|[장호중](https://github.com/mondayy1)|[박정현](https://github.com/BiteSnail)|[오민석](https://github.com/minseok-oh)|[안준석](https://github.com/Rahahhaaa)|[이동율](https://github.com/leedongyull)
-
-#### TEAM B
-|![복무창](https://avatars.githubusercontent.com/u/85085804?v=4)|
-|[복무창](https://github.com/bokob)|
-
-#### TEAM C
-
-#### TEAM D
-
-#### TEAM E
+#### TUTOR: [장호중](https://github.com/mondayy1)
+#### TEAM A: [박정현](https://github.com/bitesnail), [이준석](https://github.com/ljs831), [이태윤](https://github.com/troymerai), [김기원](https://github.com/kiuuon), [문희범](https://github.com/KorBasilion)
+#### TEAM B: [오민석](https://github.com/minseok-oh), [김민정](https://github.com/Minnnning), [오현지](https://github.com/hyunjiiing), [강지웅](https://github.com/KangjiUng)
+#### TEAM C: [안준석](https://github.com/Rahahhaaa), [양해미](https://github.com/yanghaemi), [김재하](https://github.com/kjh3291), [윤정섭](https://github.com/jithhuP)
+#### TEAM D: [이동율](https://github.com/leedongyull), [오재식](https://github.com/ohjaesik), [김민서](https://github.com/kmingseo), [송영은](https://github.com/songyeongeun), [김준호](https://github.com/junhoprog)
+#### TEAM E: [복무창](https://github.com/bokob), [김도영](https://github.com/Doyoung01), [조경서](https://github.com/gyseong)
 
 </br>
 
