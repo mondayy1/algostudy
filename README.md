@@ -4,15 +4,9 @@
 </br>
 
 ## Study Members
-|<img src="https://avatars.githubusercontent.com/u/128250130?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/55152597?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/68336833?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/41678838?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/75784807?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/85085804?v=4" width="100" height="100"/>
+|![장호중](https://avatars.githubusercontent.com/u/128250130?v=4)|![박정현](https://avatars.githubusercontent.com/u/55152597?v=4)|![오민석](https://avatars.githubusercontent.com/u/68336833?v=4))|![안준석](https://avatars.githubusercontent.com/u/41678838?v=4)|![이동율](https://avatars.githubusercontent.com/u/75784807?v=4)|![복무창](https://avatars.githubusercontent.com/u/85085804?v=4)|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[장호중](https://github.com/mondayy1)|[박정현](https://github.com/BiteSnail)|[오민석](https://github.com/minseok-oh)|[안준석](https://github.com/Rahahhaaa)|[이동율](https://github.com/leedongyull)|[복무창](https://github.com/bokob)|
-|<img src="https://avatars.githubusercontent.com/u/128571125?s=400&u=a8dcb208498e3bbef65d196740552fcb4d3bafab&v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107767152?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107825793?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/80758613?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107828202?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107869024?v=4" width="100" height="100"/>|
-|[김재하](https://github.com/kjh3291)|[양해미](https://github.com/yanghaemi)|[강지웅](https://github.com/KangJiUng)|[김민정](https://github.com/Minnnning)|[오현지](https://github.com/Hyunjiiing)|[송영은](https://github.com/songyeongeun)|
-|<img src="https://avatars.githubusercontent.com/u/128784989?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107831875?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/74997112?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/47267113?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107339114?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/127804419?v=4" width="100" height="100"/>|
-|[김민서](https://github.com/kmingseo)|[이태윤](https://github.com/troymerai)|[김기원](https://github.com/kiuuon)|[문희범](https://github.com/KorBasilion)|[윤정섭](https://github.com/jithhuP)|[이준석](https://github.com/ljs831)|
-|<img src="https://avatars.githubusercontent.com/u/95284588?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/87304269?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/96814750?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/74997144?v=4" width="100" height="100"/>|
-|[조경서](https://github.com/gyseong)|[김준호](https://github.com/junhoprog)|[오재식](https://github.com/ohjaesik)|[김도영](https://github.com/Doyoung01)|
 
 </br>
 
@@ -29,13 +23,11 @@
 1. 팀별로 숙제에 대한 발표(랜덤 1인 선정, 2-5분)
 * **준비가 미흡하면 결석 처분**
 2. 주제에 대한 간단한 강의!
-* 응애
 3. 시간재고 문제 풀어보기.
 * 여러 문제를 요리조리 빨리빨리 풀어봅시다. 
 4. 문제 해설!
-* 막혔던 부분들이나 어려웠던 부분을 소통해 나가면서 하고싶습니다...
+* 막혔던 부분들이나 어려웠던 부분 위주.
 5. 퇴근
-* **대회 준비하실 분들은 끝나고 남아서 추가스터디...**
 
 </br>
 
@@ -48,9 +40,9 @@
 |**[docs]**|문서 (문서 추가, 수정, 삭제)|
 |**[chore]**|빌드, 설정 파일|
 
-ex) [Type]#주차 커밋메세지 -> git commit -m "[ac]#Week1 백준 1237"
+ex) [Type]#주차 커밋메세지 -> git commit -m "[ac]#Week1 백준 1237" / "[tle]#Week3 BOJ 1237"
 [ac] 태그를 달 수 있을 때까지 커밋하기   
-**만약 결과가 [wa]이거나 [tle]라면 그 원인을 찾아서 해결하기**
+**만약 결과가 [wa]이거나 [tle]라면 그 원인을 찾아서 해결하기, 해결하는 과정도 같이 올려주세요**
 
 </br>
 
