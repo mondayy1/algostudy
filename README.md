@@ -1,7 +1,6 @@
 # CHAOS 2023
 ### Cosmic Hojoong's Algorithm Overcoming Study
-중요하지만 항상 뒷전으로 미뤄지는 알고리즘, 언제까지나 피할수는 없다!! </br>
-23년동안 알고리즘만 갈고닦은 아저씨와 함께라면 극복 할 수 있습니다.
+충북대학교 컴퓨터공학과 COSMIC 동아리의 알고리즘 스터디 입니다.</br>
 
 </br>
 
