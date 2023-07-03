@@ -12,16 +12,15 @@
 ## Study Members
 #### TUTOR: [장호중](https://github.com/mondayy1)
 #### TEAM A: [박정현](https://github.com/bitesnail), [이준석](https://github.com/ljs831), [이태윤](https://github.com/troymerai), [김기원](https://github.com/kiuuon), [문희범](https://github.com/KorBasilion)
-#### TEAM B: [오민석](https://github.com/minseok-oh), [김민정](https://github.com/Minnnning), [오현지](https://github.com/hyunjiiing), [강지웅](https://github.com/KangjiUng)
-#### TEAM C: [안준석](https://github.com/Rahahhaaa), [양해미](https://github.com/yanghaemi), [김재하](https://github.com/kjh3291), [윤정섭](https://github.com/jithhuP)
+#### TEAM B: [오민석](https://github.com/minseok-oh), [오현지](https://github.com/hyunjiiing), [강지웅](https://github.com/KangjiUng), [김도영](https://github.com/Doyoung01)
+#### TEAM C: [안준석](https://github.com/Rahahhaaa), [양해미](https://github.com/yanghaemi), [김재하](https://github.com/kjh3291), [정희원](https://github.com/), [유현우](https://github.com/)
 #### TEAM D: [이동율](https://github.com/leedongyull), [오재식](https://github.com/ohjaesik), [김민서](https://github.com/kmingseo), [송영은](https://github.com/songyeongeun), [김준호](https://github.com/junhoprog)
-#### TEAM E: [복무창](https://github.com/bokob), [김도영](https://github.com/Doyoung01), [조경서](https://github.com/gyseong)
 
 </br>
 
 ## Study Flow
 ### Pre-Study
-1. 숙제 해결하기(개념공부 + 문제풀이, 매주 토요일23:59까지)
+1. 숙제 해결하기(개념공부 + 문제풀이, 매주 화요일23:59까지)
 * 이슈에 Week별 숙제 있습니다. 해결 할 때 까지의 과정을 commit!</br>
 그 과정에 대한 설명을 README.md 파일에 적기. 업로드 하는 규칙은 하단 참고...</br>
 숙제검사는 '주차_숙제검사' 이슈에 코멘트 달기(팀장분들이 확인해주심)~
