@@ -13,7 +13,7 @@
 #### TUTOR: [장호중](https://github.com/mondayy1)
 #### TEAM A: [박정현](https://github.com/bitesnail), [이준석](https://github.com/ljs831), [이태윤](https://github.com/troymerai), [김기원](https://github.com/kiuuon), [문희범](https://github.com/KorBasilion)
 #### TEAM B: [오민석](https://github.com/minseok-oh), [오현지](https://github.com/hyunjiiing), [강지웅](https://github.com/KangjiUng), [김도영](https://github.com/Doyoung01)
-#### TEAM C: [안준석](https://github.com/Rahahhaaa), [양해미](https://github.com/yanghaemi), [김재하](https://github.com/kjh3291), [정희원](https://github.com/heewoneha), [유현우](https://github.com/)
+#### TEAM C: [안준석](https://github.com/Rahahhaaa), [양해미](https://github.com/yanghaemi), [김재하](https://github.com/kjh3291), [정희원](https://github.com/heewoneha), [유현우](https://github.com/yhw1737)
 #### TEAM D: [이동율](https://github.com/leedongyull), [오재식](https://github.com/ohjaesik), [김민서](https://github.com/kmingseo), [송영은](https://github.com/songyeongeun), [김준호](https://github.com/junhoprog)
 
 </br>
