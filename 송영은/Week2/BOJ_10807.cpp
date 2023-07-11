@@ -21,4 +21,6 @@ int main()
             count += 1;
     }
     cout << count;
+
+    return 0;
 }
